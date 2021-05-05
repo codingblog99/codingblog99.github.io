@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #262626;
+}
+
+nav a {
+    text-decoration: none;
+    color: #262626;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+nav a:hover {
+    background-color: #262626;
+    color: white;
+}
+
+b {
+    color: white;
+    margin-top: 50px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.3rem;
+}
+
+i {
+    margin-top: 60px;
+    color: white;
+}
+
+header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: white;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.subheading {
+    padding-top: 25px;
+    padding-right: 75px;
+    text-align: right;
+    color: white;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.2rem;
+}
+
+.intro {
+    color: white;
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 1.4rem;
+}
+
+.lang1 {
+    text-align: center;
+    color: #262626;
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 50px;
+    padding-right: 25px;
+    font-size: 2.5rem;
+}
+
+.lang1div {
+    background-color: white;
+}
+
+.lang1p {
+    color: #262626;
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 1.4rem;
+}
+
+span {
+    width: 100%;
+    text-align: left;
+    font-size: 1.6rem;
+}
+
+a {
+    text-decoration: none;
+    color: #262626;
+}
+
+a:hover {
+    color: white;
+    background-color: #262626;
+    border-radius: 10px;
+}
+
+.lang2 {
+    text-align: center;
+    color: white;
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 50px;
+    padding-right: 25px;
+    font-size: 2.5rem;
+}
+
+.lang2div {
+    background-color: #262626;
+}
+
+.lang2p {
+    color: white;
+    font-family: 'Share Tech Mono', monospace;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 1.4rem;
+}
+
+span {
+    width: 100%;
+    text-align: left;
+    font-size: 1.6rem;
+}
